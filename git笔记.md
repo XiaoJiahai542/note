@@ -4,7 +4,7 @@
 
 git初始化：git inti（表现为：会在项目目录下创建”.git“的隐藏目录，该目录不能删除，也不能随意更改。）
 
-！[![image-20200309212800450](C:\Users\xiaoj\AppData\Roaming\Typora\typora-user-images\image-20200309212800450.png)]
+![image-20200309212800450](C:\Users\xiaoj\AppData\Roaming\Typora\typora-user-images\image-20200309212800450.png)
 
 
 
